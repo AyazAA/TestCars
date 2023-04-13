@@ -1,0 +1,16 @@
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\TestTaskCars.exe
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\TestTaskCars.deps.json
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\TestTaskCars.runtimeconfig.json
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\TestTaskCars.runtimeconfig.dev.json
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\TestTaskCars.dll
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\ref\TestTaskCars.dll
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\bin\Debug\net5.0\TestTaskCars.pdb
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.csproj.AssemblyReference.cache
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.AssemblyInfoInputs.cache
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.AssemblyInfo.cs
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.csproj.CoreCompileInputs.cache
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.dll
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\ref\TestTaskCars.dll
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.pdb
+C:\Users\Айаз\RiderProjects\TestTaskCars\TestTaskCars\obj\Debug\net5.0\TestTaskCars.genruntimeconfig.cache
